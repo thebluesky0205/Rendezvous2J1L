@@ -1,0 +1,19 @@
+Rendezvous2J1L
+
+1. Open a text editor
+Any pure text editor will work for this process. Please don’t use a rich text editor like Office’s Word or iWork’s Pages.
+
+2. Copy and paste the following into it
+cc18a2ad-95b3-4d88-8e4d-eff5776a5bd6
+3. Save the file as
+riot.txt
+
+Make sure there is nothing else in the file but the above code. the file name is case sensitive (i.e. must be lowercase).
+
+4. Upload the file to the product's URL
+The file must be publicly accessible from https://github.com/thebluesky0205/Rendezvous2J1L/riot.txt
+
+5. Click verify URL
+If you have a question about your application, please post an product message.
+
+If you have a question unrelated to your product, please send us a user message.
